@@ -1,0 +1,6 @@
+pyqt6
+pycryptodome
+websockets
+qiskit
+qiskit-aer
+numpy
